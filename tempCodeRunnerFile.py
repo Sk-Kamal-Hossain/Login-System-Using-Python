@@ -1,0 +1,1 @@
+title = Label(Frame_login, Text="Login Here", font=("Impact", 35, "bold"), fg='#6162FF', bg="white").place(x=90, y=30)
